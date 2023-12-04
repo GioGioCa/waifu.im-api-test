@@ -1,7 +1,5 @@
 # waifu.im-api-test
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 ## Overview
 
 This app is a meme project that we though it would be funny. It leverages the Waifu.im API to retrieve waifu pictures from an extensive archive of over 4000 images, categorized with multiple tags.
